@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+}
+
+.text-white{
+	color: white;
+}
+
+.text-black{
+	color:black;
+}
